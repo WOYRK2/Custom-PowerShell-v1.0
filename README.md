@@ -1,4 +1,4 @@
-# Custom-PowerShell-v1.1
+<img width="1111" height="618" alt="image" src="https://github.com/user-attachments/assets/d3d0fa87-91a5-496d-b577-df3156f5628f" /># Custom-PowerShell-v1.1
 -
 # ///-----RUSSIAN------\\\
 У ВАС ДОЛЖЕН БЫТЬ УСТАНОВЛЕН ПАЙТОН ПОСЛЕДНЕЙ ВЕРСИИ
@@ -11,3 +11,5 @@ I would like to warn you right away that this is still an early version and ther
 How to use: through the terminal with administrator rights, enter cd (folder path), you need to copy the folder path that contains all the necessary files for work example - C:\Users\lesha\PycharmProjects\CustomTerminal . After that, enter py main.py and follow the instructions! If you need to change the image, you need any editor with a code and open it through it. main.py . After that, finding the OP or OP1 variable depends on what you selected at the stage of selecting the image for the termen, which is built into the default program (Does not support images!) and in TempData.Change the Uses variable to false, or delete the original json file and change the name of the copy, and then reconfigure it. You can use this code anywhere, but please mention the author!
 
 TG - t.me/alcteri
+
+![Uploading Снимок экрана 2026-02-18 205245.png…]()
